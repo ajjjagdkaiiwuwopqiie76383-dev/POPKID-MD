@@ -17,7 +17,7 @@ module.exports = {
     // --- OWNER/DEV SETTINGS ---
     OWNER_NUMBER: process.env.OWNER_NUMBER || "254710329917",
     OWNER_NAME: process.env.OWNER_NAME || "Virus-254-king",
-    DEV: process.env.DEV || "254732297194", // Developer number
+    DEV: process.env.DEV || "254710329917", // Developer number
 
     // --- MESSAGING & VISIBILITY ---
     READ_MESSAGE: process.env.READ_MESSAGE || "false", // Auto read private messages
