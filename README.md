@@ -6,7 +6,7 @@
 
 ---
 
-![POPKID-MD Bot Image](https://files.catbox.moe/9tzte1.jpg)
+![POPKID-MD Bot Image](https://files.catbox.moe/se5e6e.jpg)
 
 ---
 
