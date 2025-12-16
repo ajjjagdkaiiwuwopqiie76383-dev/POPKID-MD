@@ -1,5 +1,5 @@
 {
-  "name": "POPKID-MD",
+  "name": "Virus-254-king",
   "description": "A lightweight WhatsApp BOT by Popkid.",
   "repository": "https://github.com/popkidmd/POPKID-MD",
 
@@ -11,11 +11,11 @@
 
     "OWNER_NUMBER": {
       "description": "Bot owner WhatsApp number",
-      "value": "254732297194"
+      "value": "254710329917"
     },
     "OWNER_NAME": {
       "description": "Owner name",
-      "value": "POPKID"
+      "value": "Virus-254-king"
     },
 
     "PREFIX": {
@@ -24,7 +24,7 @@
     },
     "BOT_NAME": {
       "description": "Bot display name",
-      "value": "POPKID-MD"
+      "value": "Virus-254-king"
     },
     "MODE": {
       "description": "public | private | inbox | group",
