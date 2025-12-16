@@ -9,14 +9,14 @@ module.exports = {
     // --- BOT CORE SETTINGS ---
     SESSION_ID: process.env.SESSION_ID || "popkid-session",
     PREFIX: process.env.PREFIX || ".",
-    BOT_NAME: process.env.BOT_NAME || "POPKID-MD",
+    BOT_NAME: process.env.BOT_NAME || "Virus-254-king",
     DESCRIPTION: process.env.DESCRIPTION || "© popkid xtr bot",
     MODE: process.env.MODE || "public", // Options: public, private, inbox, group
     PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
     
     // --- OWNER/DEV SETTINGS ---
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "254732297194",
-    OWNER_NAME: process.env.OWNER_NAME || "POPKID",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "254710329917",
+    OWNER_NAME: process.env.OWNER_NAME || "Virus-254-king",
     DEV: process.env.DEV || "254732297194", // Developer number
 
     // --- MESSAGING & VISIBILITY ---
