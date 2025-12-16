@@ -1,7 +1,7 @@
 FROM node:lts-buster
 
 # Clone bot from GitHub
-RUN git clone https://github.com/popkidmd/POPKID-MD.git /root/popkid-md-bot
+RUN git clone https://github.com/popkidmd/POPKID-MD.git /root/Virus-254-king
 
 # Set working directory
 WORKDIR /root/popkid-md-bot
